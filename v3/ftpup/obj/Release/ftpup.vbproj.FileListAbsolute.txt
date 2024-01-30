@@ -1,0 +1,12 @@
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.Form1.resources
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.Resources.resources
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.vbproj.GenerateResource.cache
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.vbproj.CoreCompileInputs.cache
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\bin\Release\ftpup.exe.config
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\bin\Release\ftpup.exe
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\bin\Release\ftpup.pdb
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\bin\Release\ftpup.xml
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.exe
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.xml
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.pdb
+F:\Projects\Hck\hacking\projects\Visual Basic\ftpup\ftpup\obj\Release\ftpup.vbprojResolveAssemblyReference.cache
