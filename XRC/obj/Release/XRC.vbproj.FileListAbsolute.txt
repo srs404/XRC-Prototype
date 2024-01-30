@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\XRC\XRC\bin\Release\XRC.exe.config
+C:\Users\HP\source\repos\XRC\XRC\bin\Release\XRC.exe
+C:\Users\HP\source\repos\XRC\XRC\bin\Release\XRC.pdb
+C:\Users\HP\source\repos\XRC\XRC\bin\Release\XRC.xml
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.Form1.resources
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.Resources.resources
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.exe
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.xml
+C:\Users\HP\source\repos\XRC\XRC\obj\Release\XRC.pdb
